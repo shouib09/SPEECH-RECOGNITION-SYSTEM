@@ -1,1 +1,17 @@
 # SPEECH-RECOGNITION-SYSTEM
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME: SHAIK SHOUIB AKTHAR
+
+INTER ID : CT08DF1355
+
+DOMAIN : EMBEDDED SYSTEMS
+
+DURATION: 8 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+Voice-biometrics refers to the technology or process of speech processing where voice can be used to verify a personal identity, unobtrusively and invisibly. Like other speechprocessing tools, voice biometrics extract information from the stream of speech to accomplish their work. In our model we are focusing on its ability to recognize what is being said. Voice recognition is a biometric modality that uses an individual’s voice for recognition purposes. Our proposed model or program receives and interprets dictation as well as understands and carries out the spoken command. Voice biometric solutions eliminate the need for PIN based password or interrogation–based authentication methods, or can be used to add another level of security to those systems.The Arduino Uno R3 is an open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino.cc. The board is equipped with sets of digital and analog input/output pins that may be interfaced to various expansion boards and other circuits.Our model uses this board to control the analog signals passed from the mobile app, named Android Meets Robot to the Arduino via the HC05 Bluetooth module. It is programmed as per the need to fulfill the requirements of a Voice Recognition System fitted in smart homes.We have currently implemented a simpler version of the Home Security System using Voice Recognition and we are aiming to develop it further using Machine Learning to implement only selected users’ voices to be accepted; right now, anyone with the correct “key phrase” can unlock or lock the device.The algorithm implemented on the working of the hardware is pretty simple and straight-forward. The user has to connect the HC05 Bluetooth Module with the Android Meets Robot App via Bluetooth using a smartphone. The 'key phrase' has to be spoken. The App then forwards the voice data to the HC05 Bluetooth Module. Then it is forwarded to the Arduino UNO R3 Board. The program burned to the Arduino UNO R3 decides if the data matches the 'key phrase' and generates the output accordingly.This can be actively implemented in Smart Home Security solutions after being improved with a Machine Learning model design. The Arduino cannot be re-programmed unless a USB is inserted to it and burned accordingly after being fitted into a working device. The bluetooth discovery of the HC05 can be programmed and hidden; providing access to only one client once paired. Moreover, this is cheaper than other alternatives available in the market. Approximate expense of this project was around Rs.800 only.This can be actively implemented in Smart Home Security solutions after being improved with a Machine Learning model design. In future versions, the system could include features like voice training sessions, continuous authentication, and detection of spoofed voices. The Arduino cannot be re-programmed unless a USB is inserted to it and burned accordingly after being fitted into a working device. The Bluetooth discovery of the HC05 can be programmed and hidden; providing access to only one client once paired. Moreover, this is cheaper than other alternatives available in the market. The approximate expense of this project was around Rs.800 only, making it highly cost-effective and suitable for budget-conscious applications.
+
+OUTPUT :
+
