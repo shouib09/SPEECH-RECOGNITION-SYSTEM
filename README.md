@@ -15,3 +15,4 @@ Voice-biometrics refers to the technology or process of speech processing where 
 
 OUTPUT :
 
+https://github.com/user-attachments/assets/20505b4f-fbea-4f24-9b90-4baaa24eac36
